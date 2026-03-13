@@ -1,0 +1,21 @@
+/* KarzTrack auth-specific global styles */
+
+.auth-gradient-bg {
+  background-color: #0f0f14;
+}
+
+.auth-card-shadow {
+  box-shadow:
+    0 20px 40px rgba(0, 0, 0, 0.7),
+    0 0 40px rgba(124, 58, 237, 0.35);
+}
+
+.auth-input {
+  background-color: #151520;
+  color: #ffffff;
+}
+
+.auth-input::placeholder {
+  color: #b3b3c6;
+}
+
